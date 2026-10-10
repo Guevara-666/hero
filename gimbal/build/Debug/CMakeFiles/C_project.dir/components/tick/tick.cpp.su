@@ -1,0 +1,4 @@
+C:/Users/26624/Desktop/英雄/gimbal/components/tick/tick.cpp:41:10:uint32_t hello_world::tick::GetTickUs()	16	static
+C:/Users/26624/Desktop/英雄/gimbal/components/tick/tick.cpp:51:10:uint32_t hello_world::tick::GetTickMs()	8	static
+C:/Users/26624/Desktop/英雄/gimbal/components/tick/tick.cpp:58:10:uint32_t hello_world::tick::GetTickS()	8	static
+C:/Users/26624/Desktop/英雄/gimbal/components/tick/tick.cpp:66:6:void hello_world::tick::DelayUs(uint32_t)	40	static

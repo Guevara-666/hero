@@ -1,0 +1,17 @@
+C:/Users/26624/Desktop/英雄/gimbal/Resources/Inc/DT7.hpp:43:3:hello_world::devices::remote_control::DT7::DT7()	16	static
+C:/Users/26624/Desktop/英雄/gimbal/Resources/Inc/DT7.hpp:44:11:hello_world::devices::remote_control::DT7::~DT7()	16	static
+C:/Users/26624/Desktop/英雄/gimbal/Resources/Inc/DT7.hpp:44:11:virtual hello_world::devices::remote_control::DT7::~DT7()	16	static
+C:/Users/26624/Desktop/英雄/gimbal/Resources/Inc/DT7.hpp:50:9:float hello_world::devices::remote_control::DT7::rc_rv() const	16	static
+C:/Users/26624/Desktop/英雄/gimbal/Resources/Inc/DT7.hpp:51:9:float hello_world::devices::remote_control::DT7::rc_rh() const	16	static
+C:/Users/26624/Desktop/英雄/gimbal/Resources/Inc/DT7.hpp:54:15:hello_world::devices::remote_control::SwitchState hello_world::devices::remote_control::DT7::rc_l_switch() const	16	static
+C:/Users/26624/Desktop/英雄/gimbal/Resources/Inc/DT7.hpp:55:15:hello_world::devices::remote_control::SwitchState hello_world::devices::remote_control::DT7::rc_r_switch() const	16	static
+C:/Users/26624/Desktop/英雄/gimbal/Resources/Inc/PID.hpp:30:6:void Pid::Init(float, float, float, float)	32	static
+C:/Users/26624/Desktop/英雄/gimbal/Resources/Inc/PID.hpp:41:7:float Pid::Result()	16	static
+C:/Users/26624/Desktop/英雄/gimbal/Resources/Inc/PID.hpp:46:6:void Pid::Control(float, float)	40	static
+C:/Users/26624/Desktop/英雄/gimbal/Resources/Inc/PID.hpp:74:6:void Pid::Angle_Normalization()	16	static
+C:/Users/26624/Desktop/英雄/gimbal/Resources/Inc/PID.hpp:79:6:void Pid::Derivative_Feedforward(float)	16	static
+C:/Users/26624/Desktop/英雄/gimbal/Tasks/Src/main_task.cpp:57:6:void MainInit()	16	static
+C:/Users/26624/Desktop/英雄/gimbal/Tasks/Src/main_task.cpp:83:6:void MainTask()	32	static
+C:/Users/26624/Desktop/英雄/gimbal/Tasks/Src/main_task.cpp:115:6:void HAL_CAN_RxFifo1MsgPendingCallback(CAN_HandleTypeDef*)	56	static
+C:/Users/26624/Desktop/英雄/gimbal/Tasks/Src/main_task.cpp:133:6:void HAL_CAN_RxFifo0MsgPendingCallback(CAN_HandleTypeDef*)	56	static
+C:/Users/26624/Desktop/英雄/gimbal/Tasks/Src/main_task.cpp:173:6:bool Wether_Enable_Motor()	8	static

@@ -1,0 +1,4 @@
+C:/Users/26624/Desktop/英雄/gimbal/components/imu/inc/BMI088.hpp:105:8:constexpr hello_world::imu::BMI088Config::BMI088Config()	16	static
+C:/Users/26624/Desktop/英雄/gimbal/Tasks/Src/imu_task.cpp:43:6:void ImuInit()	112	static
+C:/Users/26624/Desktop/英雄/gimbal/Tasks/Src/imu_task.cpp:72:6:void ImuUpdate()	8	static
+C:/Users/26624/Desktop/英雄/gimbal/Tasks/Src/imu_task.cpp:86:13:void Quat2Euler(float*, float*)	32	static

@@ -1,0 +1,4 @@
+C:/Users/26624/Desktop/英雄/chassis/components/ahrs/src/ahrs_base.cpp:34:1:hello_world::ahrs::Ahrs::Ahrs(const float*)	16	static
+C:/Users/26624/Desktop/英雄/chassis/components/ahrs/src/ahrs_base.cpp:39:6:void hello_world::ahrs::Ahrs::getQuat(float*) const	16	static
+C:/Users/26624/Desktop/英雄/chassis/components/ahrs/src/ahrs_base.cpp:44:6:void hello_world::ahrs::Ahrs::getEulerAngle(float*) const	24	static
+C:/Users/26624/Desktop/英雄/chassis/components/ahrs/src/ahrs_base.cpp:55:7:float hello_world::ahrs::Ahrs::invSqrt(float) const	32	static

@@ -1,0 +1,25 @@
+C:/Users/26624/Desktop/英雄/chassis/Resources/Inc/DT7.hpp:43:3:hello_world::devices::remote_control::DT7::DT7()	16	static
+C:/Users/26624/Desktop/英雄/chassis/Resources/Inc/DT7.hpp:44:11:hello_world::devices::remote_control::DT7::~DT7()	16	static
+C:/Users/26624/Desktop/英雄/chassis/Resources/Inc/DT7.hpp:44:11:virtual hello_world::devices::remote_control::DT7::~DT7()	16	static
+C:/Users/26624/Desktop/英雄/chassis/Resources/Inc/DT7.hpp:48:9:float hello_world::devices::remote_control::DT7::rc_lv() const	16	static
+C:/Users/26624/Desktop/英雄/chassis/Resources/Inc/DT7.hpp:49:9:float hello_world::devices::remote_control::DT7::rc_lh() const	16	static
+C:/Users/26624/Desktop/英雄/chassis/Resources/Inc/DT7.hpp:54:15:hello_world::devices::remote_control::SwitchState hello_world::devices::remote_control::DT7::rc_l_switch() const	16	static
+C:/Users/26624/Desktop/英雄/chassis/Resources/Inc/DT7.hpp:55:15:hello_world::devices::remote_control::SwitchState hello_world::devices::remote_control::DT7::rc_r_switch() const	16	static
+C:/Users/26624/Desktop/英雄/chassis/Resources/Inc/GM3508.hpp:34:13:void GM3508::Init(uint32_t)	16	static
+C:/Users/26624/Desktop/英雄/chassis/Resources/Inc/GM3508.hpp:50:14:float GM3508::vel()	16	static
+C:/Users/26624/Desktop/英雄/chassis/Resources/Inc/GM3508.hpp:66:13:void GM3508::setInput(float)	16	static
+C:/Users/26624/Desktop/英雄/chassis/Resources/Inc/GM3508.hpp:74:6:bool GM3508::encode(uint8_t*)	24	static
+C:/Users/26624/Desktop/英雄/chassis/Resources/Inc/GM3508.hpp:104:13:bool GM3508::decode(uint8_t*)	24	static
+C:/Users/26624/Desktop/英雄/chassis/Resources/Inc/PID.hpp:32:6:void Pid::Init(float, float, float, float)	32	static
+C:/Users/26624/Desktop/英雄/chassis/Resources/Inc/PID.hpp:44:7:float Pid::Result()	16	static
+C:/Users/26624/Desktop/英雄/chassis/Resources/Inc/PID.hpp:49:6:void Pid::Control(float, float)	40	static
+C:/Users/26624/Desktop/英雄/chassis/Resources/Inc/PID.hpp:84:6:void Pid::Angle_Normalization()	16	static
+C:/Users/26624/Desktop/英雄/chassis/Resources/Inc/PID.hpp:89:6:void Pid::Derivative_Feedforward(float)	16	static
+C:/Users/26624/Desktop/英雄/chassis/Resources/Inc/PID.hpp:95:6:void Pid::Limit_Output(float, float)	24	static
+C:/Users/26624/Desktop/英雄/chassis/Tasks/Src/main_task.cpp:73:6:void MainInit()	24	static
+C:/Users/26624/Desktop/英雄/chassis/Tasks/Src/main_task.cpp:108:6:void MainTask()	96	static
+C:/Users/26624/Desktop/英雄/chassis/Tasks/Src/main_task.cpp:191:6:void HAL_UARTEx_RxEventCallback(UART_HandleTypeDef*, uint16_t)	16	static
+C:/Users/26624/Desktop/英雄/chassis/Tasks/Src/main_task.cpp:207:6:void HAL_CAN_RxFifo1MsgPendingCallback(CAN_HandleTypeDef*)	56	static
+C:/Users/26624/Desktop/英雄/chassis/Tasks/Src/main_task.cpp:228:6:void HAL_CAN_RxFifo0MsgPendingCallback(CAN_HandleTypeDef*)	56	static
+C:/Users/26624/Desktop/英雄/chassis/Tasks/Src/main_task.cpp:251:6:bool Wether_Enable_Motor()	8	static
+C:/Users/26624/Desktop/英雄/chassis/Tasks/Src/main_task.cpp:259:6:void send_rc_raw_to_can1()	96	static

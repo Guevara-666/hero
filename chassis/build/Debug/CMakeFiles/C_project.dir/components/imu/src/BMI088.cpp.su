@@ -1,0 +1,28 @@
+C:/Users/26624/Desktop/英雄/chassis/components/imu/inc/BMI088.hpp:139:11:hello_world::imu::BMI088::~BMI088()	16	static
+C:/Users/26624/Desktop/英雄/chassis/components/imu/inc/BMI088.hpp:139:11:virtual hello_world::imu::BMI088::~BMI088()	16	static
+C:/Users/26624/Desktop/英雄/chassis/components/imu/inc/BMI088.hpp:186:15:void hello_world::imu::BMI088::accCsL() const	16	static
+C:/Users/26624/Desktop/英雄/chassis/components/imu/inc/BMI088.hpp:190:15:void hello_world::imu::BMI088::accCsH() const	16	static
+C:/Users/26624/Desktop/英雄/chassis/components/imu/inc/BMI088.hpp:194:15:void hello_world::imu::BMI088::gyroCsL() const	16	static
+C:/Users/26624/Desktop/英雄/chassis/components/imu/inc/BMI088.hpp:198:15:void hello_world::imu::BMI088::gyroCsH() const	16	static
+C:/Users/26624/Desktop/英雄/chassis/components/imu/src/BMI088.cpp:114:1:hello_world::imu::BMI088::BMI088(const hello_world::imu::BMI088HWConfig&, const float*, const hello_world::imu::BMI088Config&)	32	static
+C:/Users/26624/Desktop/英雄/chassis/components/imu/src/BMI088.cpp:130:1:hello_world::imu::BMI088::BMI088(const hello_world::imu::BMI088&)	24	static
+C:/Users/26624/Desktop/英雄/chassis/components/imu/src/BMI088.cpp:145:9:hello_world::imu::BMI088& hello_world::imu::BMI088::operator=(const hello_world::imu::BMI088&)	16	static
+C:/Users/26624/Desktop/英雄/chassis/components/imu/src/BMI088.cpp:165:1:hello_world::imu::BMI088::BMI088(hello_world::imu::BMI088&&)	24	static
+C:/Users/26624/Desktop/英雄/chassis/components/imu/src/BMI088.cpp:184:9:hello_world::imu::BMI088& hello_world::imu::BMI088::operator=(hello_world::imu::BMI088&&)	16	static
+C:/Users/26624/Desktop/英雄/chassis/components/imu/src/BMI088.cpp:208:6:void hello_world::imu::BMI088::init(const hello_world::imu::BMI088HWConfig&, const float*, const hello_world::imu::BMI088Config&)	24	static
+C:/Users/26624/Desktop/英雄/chassis/components/imu/src/BMI088.cpp:226:16:hello_world::imu::BMI088ErrState hello_world::imu::BMI088::imuInit(bool) const	24	static
+C:/Users/26624/Desktop/英雄/chassis/components/imu/src/BMI088.cpp:236:6:void hello_world::imu::BMI088::getData(float*, float*, float*) const	40	static
+C:/Users/26624/Desktop/英雄/chassis/components/imu/src/BMI088.cpp:259:16:hello_world::imu::BMI088ErrState hello_world::imu::BMI088::accInit(bool) const	32	static
+C:/Users/26624/Desktop/英雄/chassis/components/imu/src/BMI088.cpp:304:16:hello_world::imu::BMI088ErrState hello_world::imu::BMI088::gyroInit(bool) const	24	static
+C:/Users/26624/Desktop/英雄/chassis/components/imu/src/BMI088.cpp:342:16:hello_world::imu::BMI088ErrState hello_world::imu::BMI088::accSelfTest() const	64	static
+C:/Users/26624/Desktop/英雄/chassis/components/imu/src/BMI088.cpp:384:16:hello_world::imu::BMI088ErrState hello_world::imu::BMI088::gyroSelfTest() const	24	static
+C:/Users/26624/Desktop/英雄/chassis/components/imu/src/BMI088.cpp:407:6:void hello_world::imu::BMI088::getGyroData(float*) const	24	static
+C:/Users/26624/Desktop/英雄/chassis/components/imu/src/BMI088.cpp:419:6:void hello_world::imu::BMI088::getAccData(float*) const	24	static
+C:/Users/26624/Desktop/英雄/chassis/components/imu/src/BMI088.cpp:431:7:float hello_world::imu::BMI088::getTemp() const	24	static
+C:/Users/26624/Desktop/英雄/chassis/components/imu/src/BMI088.cpp:447:6:void hello_world::imu::BMI088::gyroWrite(uint8_t, uint8_t) const	24	static
+C:/Users/26624/Desktop/英雄/chassis/components/imu/src/BMI088.cpp:455:9:uint8_t hello_world::imu::BMI088::gyroRead(uint8_t) const	32	static
+C:/Users/26624/Desktop/英雄/chassis/components/imu/src/BMI088.cpp:465:6:void hello_world::imu::BMI088::gyroMultiRead(uint8_t, uint8_t, uint8_t*) const	32	static
+C:/Users/26624/Desktop/英雄/chassis/components/imu/src/BMI088.cpp:475:6:void hello_world::imu::BMI088::accWrite(uint8_t, uint8_t) const	24	static
+C:/Users/26624/Desktop/英雄/chassis/components/imu/src/BMI088.cpp:483:9:uint8_t hello_world::imu::BMI088::accRead(uint8_t) const	32	static
+C:/Users/26624/Desktop/英雄/chassis/components/imu/src/BMI088.cpp:494:6:void hello_world::imu::BMI088::accMultiRead(uint8_t, uint8_t, uint8_t*) const	40	static
+C:/Users/26624/Desktop/英雄/chassis/components/imu/src/BMI088.cpp:48:13:void hello_world::imu::SetBits(T1&, const T2&) [with T1 = BMI088ErrState; T2 = BMI088ErrState]	16	static

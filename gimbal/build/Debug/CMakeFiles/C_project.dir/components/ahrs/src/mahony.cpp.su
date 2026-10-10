@@ -1,0 +1,11 @@
+C:/Users/26624/Desktop/英雄/gimbal/components/ahrs/inc/ahrs_base.hpp:35:3:constexpr hello_world::ahrs::Ahrs::Ahrs()	16	static
+C:/Users/26624/Desktop/英雄/gimbal/components/ahrs/inc/ahrs_base.hpp:48:11:hello_world::ahrs::Ahrs::~Ahrs()	16	static
+C:/Users/26624/Desktop/英雄/gimbal/components/ahrs/inc/ahrs_base.hpp:48:11:virtual hello_world::ahrs::Ahrs::~Ahrs()	16	static
+C:/Users/26624/Desktop/英雄/gimbal/components/ahrs/src/mahony.cpp:47:1:hello_world::ahrs::Mahony::Mahony(float, float, float)	24	static
+C:/Users/26624/Desktop/英雄/gimbal/components/ahrs/src/mahony.cpp:53:1:hello_world::ahrs::Mahony::Mahony(const float*, float, float, float)	32	static
+C:/Users/26624/Desktop/英雄/gimbal/components/ahrs/src/mahony.cpp:59:6:virtual void hello_world::ahrs::Mahony::update(const float*, const float*)	136	static
+C:/Users/26624/Desktop/英雄/gimbal/components/ahrs/src/mahony.cpp:95:6:void hello_world::ahrs::Mahony::init(float, float, float)	24	static
+C:/Users/26624/Desktop/英雄/gimbal/components/ahrs/src/mahony.cpp:107:6:void hello_world::ahrs::Mahony::init(const float*, float, float, float)	32	static
+C:/Users/26624/Desktop/英雄/gimbal/components/ahrs/src/mahony.cpp:119:20:void hello_world::ahrs::cross(const float*, const float*, float*)	24	static
+C:/Users/26624/Desktop/英雄/gimbal/components/ahrs/inc/mahony.hpp:65:11:hello_world::ahrs::Mahony::~Mahony()	16	static
+C:/Users/26624/Desktop/英雄/gimbal/components/ahrs/inc/mahony.hpp:65:11:virtual hello_world::ahrs::Mahony::~Mahony()	16	static

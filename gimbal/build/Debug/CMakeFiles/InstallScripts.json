@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/26624/Desktop/\u82f1\u96c4/gimbal/build/Debug/cmake_install.cmake",
+		"C:/Users/26624/Desktop/\u82f1\u96c4/gimbal/build/Debug/cmake/stm32cubemx/cmake_install.cmake",
+		"C:/Users/26624/Desktop/\u82f1\u96c4/gimbal/build/Debug/CMSISDSP/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
